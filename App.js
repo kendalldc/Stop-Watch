@@ -10,7 +10,6 @@ function App() {
       <div className="App-title">Timers Demo</div>
         <div className="Timers"></div>
      <Stopwatch/>
-     {/* <Countdown/> */}
     </div>
   );
 }
